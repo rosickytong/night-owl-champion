@@ -30,7 +30,7 @@ cd night-owl-champion
 
 ### 在线预览
 
-访问 https://rosickytong.github.io/night-owl-champion/ 查看在线演示
+访问 https://www.tongying.vip/ 查看在线演示
 
 ## 📁 项目结构
 
